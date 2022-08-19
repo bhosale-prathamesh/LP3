@@ -25,4 +25,6 @@ start = time.time()
 print(ite_fib(n))
 end = time.time()
 time_n = end - start
+
 print("Iterative Time complexity: ",time_n)
+print("Iterative Space complexity: ",4*5,"bytes")

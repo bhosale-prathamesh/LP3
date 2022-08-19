@@ -24,6 +24,7 @@ public class fib{
         	long itetimeElapsed = iteendTime - itestartTime;
         	
         	System.out.println("Iterative Time required (ns):"+itetimeElapsed);
+        	System.out.println("Iterative Space complexity: 20 bytes");
 		
 	}
 	public static int rec_fib(int n){

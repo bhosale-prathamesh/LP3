@@ -1,6 +1,3 @@
-from tokenize import Double
-
-
 items = []
 capacity = float(input("Enter Bag capacity: ")) 
 n = int(input("Number of Items: "))
