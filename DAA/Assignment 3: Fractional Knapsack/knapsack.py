@@ -20,4 +20,4 @@ for i in items:
     else:
         value += capacity*i[3]
         break
-print("Total Profit: ",value)t
+print("Total Profit: ",value)
